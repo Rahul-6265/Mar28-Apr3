@@ -1,0 +1,35 @@
+body {
+    background-color: #007065;
+    margin: 200px 550px 50px 550px;
+    overflow: hidden;
+}
+
+.first {
+    width: 0;
+    height: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 200px solid #FFEECF;
+    position: relative;
+    top: 160px;
+}
+
+.second {
+    width: 0;
+    height: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 200px solid #F5C181;
+    position: relative;
+    top: -110px;
+}
+
+.third {
+    width: 0;
+    height: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 200px solid #00A79D;
+    position: relative;
+    top: -380px;
+}
